@@ -1,5 +1,7 @@
 
-#Overview
+#Please refer to this link (https://github.com/bspl-pu/bspl_dospert_package) if you want to use the new DOSPERT r-script released in 2020.
+
+#Overview (DOSPERT 2002, 2006 ver.)
 dospert is a pacakge used to aid the analysis of DOSPERT data. It includes three functions:
 
 - **d_clean**: d_clean function returns raw DOSPERT data in a panel format. 
